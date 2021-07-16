@@ -4,4 +4,4 @@
  
  Implemented in [R-Shiny](https://shiny.rstudio.com/) with [shiny modules](https://shiny.rstudio.com/articles/modules.html).
  
- Try it **[here]**(https://2exp3.shinyapps.io/ships/) :ship:.
+ Try it [**here**](https://2exp3.shinyapps.io/ships/) :ship:.
